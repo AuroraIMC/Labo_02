@@ -2,4 +2,4 @@ flask
 nltk
 matplotlib
 
-pip install -r requirements.txt
+
